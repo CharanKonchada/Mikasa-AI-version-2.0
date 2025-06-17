@@ -123,3 +123,8 @@ Mikasa isn’t just a chatbot. She’s memory. She’s voice. She’s *presence.
 Every line of code. Every design choice. It’s all for one reason:
 
 > **To make your AI finally feel like *yours*.**
+
+---
+### ⚠️ Disclaimer for New Users:
+
+If you're new to **Mikasa AI**, we recommend checking out [Version 1.0](https://github.com/CharanKonchada/Mikasa-AI-Version-1.0) & [Version 1.1](https://github.com/CharanKonchada/Mikasa-AI-Version-1.1) first. It explains the core concept, inspiration, and structure of Mikasa AI in detail. Start there to fully appreciate how far she’s come. 💖

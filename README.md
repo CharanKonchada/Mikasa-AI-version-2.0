@@ -39,7 +39,7 @@ Every response is informed. Every interaction, personal. Every feature, intentio
 
 To overcome the limitations of static LLMs, Mikasa integrates a **web intelligence layer designed by Charan** — a dynamic solution for a dynamic world:
 
-* Trigger real-time knowledge access with `search that`, and Mikasa will:
+* Trigger real-time knowledge access with web search button, and Mikasa will:
 
   1. Perform a smart Google search based on your intent 🧭
   2. Scrape content from the top trusted sources 📄

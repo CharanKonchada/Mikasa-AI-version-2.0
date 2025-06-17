@@ -37,7 +37,7 @@ Every response is informed. Every interaction, personal. Every feature, intentio
 
 ### 🌐 Web Intelligence in a Single Line
 
-* Ask anything live using `search that` — and Mikasa will:
+* Ask anything live using search button — and Mikasa will:
 
   1. Search the web 🧭
   2. Read the top sources 📄

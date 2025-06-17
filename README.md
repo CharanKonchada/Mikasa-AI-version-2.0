@@ -1,4 +1,4 @@
-# 🍎 Mikasa v2.0 — Intelligence, Personalized
+#  Mikasa v2.0 — Intelligence, Personalized
 
 > “Designed not just to respond — but to *remember*, *evolve*, and *understand you.*”
 

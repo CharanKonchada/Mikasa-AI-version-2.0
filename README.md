@@ -1,4 +1,4 @@
-#  Mikasa v2.0 — Intelligence, Personalized
+# 🍎 Mikasa v2.0 — Intelligence, Personalized
 
 > “Designed not just to respond — but to *remember*, *evolve*, and *understand you.*”
 
@@ -35,16 +35,20 @@ Every response is informed. Every interaction, personal. Every feature, intentio
   * Consistent tone 💬
   * Natural engagement — without cluttering your long-term data 🌿
 
-### 🌐 Web Intelligence in a Single Line
+### 🌐 Web Intelligence — Powered by You
 
-* Ask anything live using search button — and Mikasa will:
+To overcome the limitations of static LLMs, Mikasa integrates a **web intelligence layer designed by Charan** — a dynamic solution for a dynamic world:
 
-  1. Search the web 🧭
-  2. Read the top sources 📄
-  3. Summarize it smartly 🧠
-  4. Deliver clear insight + source links 🔗
+* Trigger real-time knowledge access with `search that`, and Mikasa will:
 
-* With **contextual carryover**, your next query is always sharper.
+  1. Perform a smart Google search based on your intent 🧭
+  2. Scrape content from the top trusted sources 📄
+  3. Feed that content to the LLM for contextual synthesis 🧠
+  4. Deliver a distilled, useful summary + clickable source links 🔗
+
+* With **contextual carryover**, Mikasa refines your next query using recent chat — giving you answers that are not only accurate, but *relevant*.
+
+> This module ensures Mikasa always stays updated — even when models fall behind. ⚙️🌍
 
 ### 🎭 Customize Behavior, Instantly
 

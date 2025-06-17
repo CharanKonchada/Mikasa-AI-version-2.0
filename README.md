@@ -35,7 +35,7 @@ Every response is informed. Every interaction, personal. Every feature, intentio
   * Consistent tone 💬
   * Natural engagement — without cluttering your long-term data 🌿
 
-### 🌐 Web Intelligence — Powered by You
+### 🌐 Web Intelligence 
 
 To overcome the limitations of static LLMs, Mikasa integrates a **web intelligence layer designed by Charan** — a dynamic solution for a dynamic world:
 

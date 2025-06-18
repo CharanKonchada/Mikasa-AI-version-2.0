@@ -1,4 +1,4 @@
-#  Mikasa v2.0 — Intelligence, Personalized
+# Mikasa v2.0 — Intelligence, Personalized
 
 > “Designed not just to respond — but to *remember*, *evolve*, and *understand you.*”
 
@@ -13,6 +13,12 @@ Every response is informed. Every interaction, personal. Every feature, intentio
 ---
 
 ## 🌟 2. Core Features — Crafted for Meaning
+
+### 🧠 LLM-Based Smart Memory Engine
+
+* I noticed a bug in traditional memory logic, so I built a smarter system using the LLM itself.
+* Mikasa now stores memory **only when needed**, and you can **remove info without repeating the exact stored text**.
+* She intelligently detects and deletes related entries from the database.
 
 ### 🧠 Dynamic Long-Term Memory
 
@@ -35,20 +41,24 @@ Every response is informed. Every interaction, personal. Every feature, intentio
   * Consistent tone 💬
   * Natural engagement — without cluttering your long-term data 🌿
 
-### 🌐 Web Intelligence 
+### 🌐 Web Intelligence & Continuity
 
-To overcome the limitations of static LLMs, Mikasa integrates a **web intelligence layer designed by Charan** — a dynamic solution for a dynamic world:
+* Click the **WebSearch** button to:
 
-* Trigger real-time knowledge access with web search button, and Mikasa will:
+  1. Search the web 🧭
+  2. Read the top sources 📄
+  3. Summarize it smartly 🧠
+  4. Deliver clear insight + source links 🔗
 
-  1. Perform a smart Google search based on your intent 🧭
-  2. Scrape content from the top trusted sources 📄
-  3. Feed that content to the LLM for contextual synthesis 🧠
-  4. Deliver a distilled, useful summary + clickable source links 🔗
+* **Contextual Carryover**
 
-* With **contextual carryover**, Mikasa refines your next query using recent chat — giving you answers that are not only accurate, but *relevant*.
+  * Ask “What is AI?” then follow up with “Why is it important?” — Mikasa understands the thread. No need to repeat context. 🧠✅
+  * The LLM handles continuity seamlessly — designed to keep your thought flow intact.
 
-> This module ensures Mikasa always stays updated — even when models fall behind. ⚙️🌍
+### 🎙️ Voice Input Button
+
+* Speak directly into Mikasa. No typing needed.
+* Fast, hands-free, and conversational. 🗣️🎤
 
 ### 🎭 Customize Behavior, Instantly
 
@@ -64,7 +74,10 @@ To overcome the limitations of static LLMs, Mikasa integrates a **web intelligen
 
 ### 🖥️ Interface (Frontend)
 
-* Minimalist HTML page. One screen. One chat. Total focus.
+* Minimalist HTML page.
+* **New orange theme** 🍊 replaces the previous blue.
+* Intuitive design: WebSearch, Text Input, Voice Input.
+* Upcoming: **File Input** for PDFs and DOCX — enabling RAG-style document interaction.
 
 ### 🔄 Backend (Flask)
 
@@ -109,7 +122,6 @@ Every detail matters. Every interaction improves Mikasa.
 | `remember that ...`     | Store long-term memory            | `remember that I love sunsets` 🌇        |
 | `remove that ...`       | Delete a fact                     | `remove that I love sunsets`             |
 | `update that ...`       | Change a fact                     | `update that I love sunsets to rain` 🌧️ |
-| `search that ...`       | Live web answer                   | `search that iPhone 16 features` 📱      |
 | `from now on ...`       | Modify personality/response style | `from now on, speak casually` 😎         |
 | `show settings`         | Show behavior settings            |                                          |
 | `stop doing [behavior]` | Undo a behavioral tweak           | `stop doing emoji_usage` 🙅‍♀️           |
@@ -123,6 +135,7 @@ Mikasa isn’t just a chatbot. She’s memory. She’s voice. She’s *presence.
 Every line of code. Every design choice. It’s all for one reason:
 
 > **To make your AI finally feel like *yours*.**
+
 
 ---
 ### ⚠️ Disclaimer for New Users:
